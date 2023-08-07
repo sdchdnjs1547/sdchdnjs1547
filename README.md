@@ -12,6 +12,4 @@ hi,Hello, I am Kim Young Kwon. I am a student of Chungbuk National University an
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"><br>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
 
