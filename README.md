@@ -1,5 +1,4 @@
-hi, I am Kim Young Kwon. I am a student of Chungbuk National University and I was born in 1998. I live in South Korea and my e-mail is <br>
- <img src="https://img.shields.io/badge/G mail-EA4335?style=for-the-badge&logo=G mail&logoColor=white"> "sdchdnjs1547@naver.com"
+hi, I am Kim Young Kwon. I am a student of Chungbuk National University and I was born in 1998. I live in South Korea and my e-mail is "sdchdnjs1547@naver.com"
 
 <div align=center><h1>📚 STACKS</h1></div>
 **languages and tools:**  
